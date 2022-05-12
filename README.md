@@ -1,6 +1,6 @@
 # SPD2022_TPS
 
-.Ezeuiel moran
+.Ezequiel moran
 .Julieta Lizio
 .Santi
 .Thomas
